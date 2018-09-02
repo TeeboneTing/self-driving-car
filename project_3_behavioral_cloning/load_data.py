@@ -4,7 +4,7 @@ import numpy as np
 import csv
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import random
 import keras.backend as K
 from config import *
